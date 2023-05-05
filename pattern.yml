@@ -1,4 +1,3 @@
-dependencies: null
 lifecycle:
   create:
     commands:
@@ -13,10 +12,10 @@ lifecycle:
     commands:
     - bash lifecycle/upgrade.sh
 metadata:
-  organisation-id: onp
+  organisation-id: cba
   pattern-categories:
   - Network
-  pattern-description: Build an ALB in for front facing web
-  pattern-id: onp.cba.ec2.alb.efsystems
-  pattern-name: cba.ec2.alb.efsystems
+  pattern-description: ALB for Internet Facing Web Tier
+  pattern-id: cba.ec2.alb.efsystems
+  pattern-name: EC2 with ALB External Facing Systems
   pattern-version: 1.0.0
