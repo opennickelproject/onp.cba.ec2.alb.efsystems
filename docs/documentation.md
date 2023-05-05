@@ -11,7 +11,7 @@
 | pattern-categories      | Network                                     |
 
 ## What is this pattern?
-This is a sample blueprint to use ALB inside CBA for External Facing Web Tiers
+This is a sample blueprint to use ALB inside CBA for External Facing Web Tiers.
 
 ![](./diagrams/res/alb.png)
 
